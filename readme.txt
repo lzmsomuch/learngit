@@ -3,4 +3,5 @@ git is a free software distributed under the GPL.
 
 git is great!
 
+git is amazing!
 
